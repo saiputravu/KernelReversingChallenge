@@ -8,6 +8,7 @@ Make sure you have Qemu installed
 ```bash
 chmod +x ./compile.sh
 chmod +x ./run.sh
+mkdir build
 
 ./run.sh
 ```
