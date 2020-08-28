@@ -4,6 +4,8 @@ Try and reverse this kernel without reading the source code :D
 
 This was me learning about building a kernel mainly
 
+For a harder challenge strip the binary first 
+
 # Compile and Run
 Make sure you have Qemu installed
 ```bash
